@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Maisons"
+date:   2021-05-15
+---
+
+
+
+![Pointe](/media/2021-05-01-pointe.jpg)
+<video controls width="740">
+       <source src="/media/2021-05-01-tirage.mp4" type="video/mp4">
+</video>
+![Essai](/media/2021-05-01-essai.jpg)
+![Tirages](/media/2021-05-01-tirages.jpg)
+![Cadre](/media/2021-05-01-cadre.jpg)
