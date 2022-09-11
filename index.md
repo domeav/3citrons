@@ -15,7 +15,7 @@ pour la taille directe, une table d’encrage chauffante.
 
 ![3 Citrons par Peneloppe](/media/presse.jpg)
 
-Merci Peneloppe de Rennes pour le tag sur le mur de l'atelier !
+Merci Peneloppe de Rennes pour le graff sur le mur de l'atelier !
 
 ## Accès
 - À vélo : depuis Lorient, Gestel, Pont-Scorff, Plœmeur, itinéraire sur voies cyclables dédiées

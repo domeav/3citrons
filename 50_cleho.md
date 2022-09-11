@@ -4,7 +4,7 @@ title: Clého/Clotilde Eav
 permalink: /cleho/
 ---
 
-![Clého](/media/cleho.jpg)
+![Clého](/media/queven.jpg)
 
 Tombée dans la gravure au détour d’une rue toulousaine, je me suis
 formée à [l’atelier de la main gauche](http://atelierdelamaingauche.fr/) pendant une dizaine d’années,
@@ -45,3 +45,5 @@ Je suis membre de l’association de créatifs lorientais
 - Juillet-août – *Baam on the beach*, à la galerie BAAM, Lorient
 - Avril – *Lignes d’eau*, dans le cadre de l’Enez Fest, Brizeux, Quimperlé
 - Mars-avril – *Bichrobaam*, à la galerie BAAM, Lorient
+
+![tirage](/media/tirage.jpg)
