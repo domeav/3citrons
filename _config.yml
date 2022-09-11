@@ -22,6 +22,9 @@ url: "https://3citrons.art" # the base hostname & protocol for your site, e.g. h
 show_excerpts: true
 minima:
     date_format: "%d/%m/%Y"
+    
+instagram_username: atelier_3_citrons
+instagram_username2: cleho_estampe
 
 # Build settings
 markdown: kramdown
